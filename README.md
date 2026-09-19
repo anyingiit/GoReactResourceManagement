@@ -3,9 +3,10 @@
 
 # GoReactResourceManagement
 
-Go react resource management is an empty repository that holds no code yet.
+GoReactResourceManagement is an archived scaffold repository whose one commit added only the standard open-source community files, with no Go or React application code ever committed to it.
 
-[![CI](https://github.com/anyingiit/GoReactResourceManagement/actions/workflows/ci.yml/badge.svg)](https://github.com/anyingiit/GoReactResourceManagement/actions/workflows/ci.yml)
+**English** · [简体中文](README.zh-CN.md)
+
 [![License](https://img.shields.io/github/license/anyingiit/GoReactResourceManagement)](LICENSE)
 
 [Report a bug](https://github.com/anyingiit/GoReactResourceManagement/issues/new?template=bug_report.yml) · [Request a feature](https://github.com/anyingiit/GoReactResourceManagement/issues/new?template=feature_request.yml)
@@ -24,28 +25,29 @@ Go react resource management is an empty repository that holds no code yet.
 
 ## About The Project
 
-Go react resource management is an empty repository that holds no code yet.
+Despite its name, GoReactResourceManagement has never held a Go backend, a React frontend, or any other application code. Its entire history is one commit, "chore: add open-source baseline", which its own message says adds only the standard community files this account uses for a new repository — this README, `LICENSE`, `CONTRIBUTING.md`, issue templates and CI/dependabot configuration — from anyingiit/chefs-pick-oss-starter. [`CHANGELOG.md`](CHANGELOG.md) records nothing beyond that same "Initial project structure" entry, and the repository is now archived.
 
-See the [open issues](https://github.com/anyingiit/GoReactResourceManagement/issues) for planned features and known issues.
+There is no resource-management application here, past or present, to build, run, or document, beyond acknowledging what the repository actually is.
 
 ## Getting Started
 
 ### Prerequisites
 
-- Git
+There is no Go toolchain, Node.js/npm, or any other build dependency to install — the tree contains no `go.mod`, `package.json`, or manifest of any kind for any of them to satisfy. A `git` client is only needed if you want a local copy of the scaffolding itself.
 
 ### Installation
 
+There is nothing to install; the repository has never contained a Go module or a React package:
+
 ```sh
 git clone https://github.com/anyingiit/GoReactResourceManagement.git
-cd GoReactResourceManagement
 ```
+
+Cloning it retrieves only the scaffolding described above, not a runnable application.
 
 ## Usage
 
-```sh
-GoReactResourceManagement --help
-```
+There is no server to start and no frontend to build. This repository is archived scaffolding, not a Go/React resource-management system — if you arrived here expecting one, you likely want a different repository under this account.
 
 ## Contributing
 
